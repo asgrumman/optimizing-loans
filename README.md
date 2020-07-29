@@ -1,2 +1,2 @@
 # optimizing-loans
-Optimizing a dataframe's memory usage in chunks for loans data
+Processed loans data from Lending Club in chunks to optimize the dataframe's memory usage as part of Dataquest.io's Data Engineering course.
